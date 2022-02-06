@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: dselmy <dselmy@student.21-school.ru>       +#+  +:+       +#+         #
+#    By: dselmy <dselmy@student.42.fr>              +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2021/08/27 21:46:39 by dselmy            #+#    #+#              #
-#    Updated: 2022/02/05 17:32:44 by dselmy           ###   ########.fr        #
+#    Updated: 2022/02/06 15:33:26 by dselmy           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -15,7 +15,7 @@ NAME = minishell
 INC_DIR = ./includes/
 BUILDINS_DIR = ./buildins/
 LIBFT_DIR = ./libft/
-RL_DIR = /Users/sstyr/.brew/Cellar/readline/8.1.1/lib
+RL_DIR = /Users/dselmy/.brew/Cellar/readline/8.1.1/lib
 
 SRCS =	engine.c \
 		exec.c \

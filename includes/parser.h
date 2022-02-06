@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parser.h                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: dselmy <dselmy@student.21-school.ru>       +#+  +:+       +#+        */
+/*   By: dselmy <dselmy@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/26 23:03:54 by dselmy            #+#    #+#             */
-/*   Updated: 2022/02/05 17:31:21 by dselmy           ###   ########.fr       */
+/*   Updated: 2022/02/06 15:32:47 by dselmy           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,8 +22,8 @@
 # include <sys/wait.h>
 # include <sys/stat.h>
 # include <signal.h>
-# include "/Users/sstyr/.brew/Cellar/readline/8.1.1/include/readline/readline.h"
-# include "/Users/sstyr/.brew/Cellar/readline/8.1.1/include/readline/history.h"
+# include "/Users/dselmy/.brew/Cellar/readline/8.1.1/include/readline/readline.h"
+# include "/Users/dselmy/.brew/Cellar/readline/8.1.1/include/readline/history.h"
 
 # define SINGLE_QUOTE 1
 # define DOUBLE_QUOTE 2
