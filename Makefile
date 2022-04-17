@@ -15,7 +15,7 @@ NAME = minishell
 INC_DIR = ./includes/
 BUILDINS_DIR = ./buildins/
 LIBFT_DIR = ./libft/
-RL_DIR = /Users/dselmy/.brew/Cellar/readline/8.1.1/lib
+RL_DIR = ./readline/8.1.1/lib/
 
 SRCS =	engine.c \
 		exec.c \
