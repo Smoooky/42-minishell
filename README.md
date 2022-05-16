@@ -1,4 +1,4 @@
-# minishell
+# Minishell
 
 ## What is it?
 
@@ -8,7 +8,7 @@ decided to use readline library. Throug this project we learned a lot about bash
 working on heredoc and signals, but we were able to sucsessfully overcome it. I am really grateful to my partner for work she does. We worked as a real 
 team and she never refused me in help. She told me everything she knew about pipes and I really appreciate that. 
 
-## How to launch
+## How to launch?
 
 Use ``make`` to compile and ``./minishell`` to run.
 
